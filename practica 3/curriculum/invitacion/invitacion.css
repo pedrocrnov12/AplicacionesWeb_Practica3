@@ -1,0 +1,73 @@
+
+body{
+    background-color: black;
+}
+.info{
+    width: 90%;
+    height: auto;
+    background: black;
+    margin: 2% auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.info .tittlesection{
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px silver dashed; 
+
+}
+.info .tituloinfo{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: x large;
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+.info .infoinfo{
+    color: white;
+    font-weight: normal;
+    font-size:  large;
+    text-align: center;
+    display: inline;
+    text-align: center;
+    
+}
+.recuadro{
+    width: 10%;
+    height: auto;
+    background: gold;
+    margin: 1% auto;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+.ubicacion{
+    height: auto;
+    width: auto;
+    text-align: center;
+    background-color: black;
+    border-radius: 0%;
+}
+.bottons{
+    width: 40%;
+    height: auto;
+    background: black;
+    margin: 2% auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.bottons .boton1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large large;
+}
